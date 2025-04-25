@@ -1,1 +1,1 @@
-# Apriori
+Thuật toán Apriori là công cụ phân tích giỏ hàng giúp nhà bán lẻ hiểu hành vi mua sắm bằng cách tìm ra các nhóm sản phẩm thường được mua cùng nhau. Dựa trên nguyên tắc: nếu một tập hợp mục phổ biến thì các tập con của nó cũng phổ biến, thuật toán giúp giảm số lượng tổ hợp cần kiểm tra, tăng hiệu quả phân tích.
